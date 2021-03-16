@@ -11,8 +11,8 @@ Software engineer with 7 years experience coding technically. Experience in buil
 ### :small_orange_diamond: Key Skills & Competencies
 
 *iOS*
-- Experience in iOS development.
-- Experience with Mobile Cross Platform Framework
+- Experience in iOS development
+- Experience with Mobile Cross Platform Frameworks such as Titanium, React Native, ...
 - Good knowledge at OOP 
 - Experience in Objective-C, Swift, ARC, XCode.
 - Experience with iOS application architecture and design.
@@ -26,9 +26,9 @@ Software engineer with 7 years experience coding technically. Experience in buil
 - Experience with PHP framework such as: Laravel, Lumen, CakePHP, Zend.
 - Experience with MySQL
 
-*UI/UX*
+*JS/CSS*
 - Had strong skills in creation of interfaces using HTML, CSS especially in HTML5/CSS3 including knowledge of cross-browser compatibility issues
-- Experience in Responsive Web Design and the associated front-end framework like Bootstrap
+- Experience in Responsive Web Design and the associated front-end framework like Bootstrap, UIKit, ...
 - Experience convert PSD to HTML
 - Experience Javascript framework such as: Jquery, BackboneJS, ReactJS, AngularJS and building AJAX based applications
 - Experience with CSS pre-processor such as: SASS or LESS
