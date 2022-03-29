@@ -6,7 +6,8 @@
 - Live in: Ho Chi Minh City, Viet Nam
 
 ### :small_orange_diamond: Summary
-Software engineer with many years experience in coding technically. Experience in building apps on both iOS and web platform. I’m strong, hang-on, knowledge of programming in Objective C, Swift, PHP, Javascript, NodeJs, HTML, CSS, MySQL, … Good understanding of technology trends and development. With programming skills and many years experience, I confident I can solve any problems from simple to complex challenges.
+Software engineer with many years of experience in coding technically. Experience in building apps on both iOS and web platforms. I’m strong, hang-on, knowledge of programming in Objective C, Swift, PHP, Javascript, NodeJs, HTML, CSS, MySQL, … Good understanding of technology trends and development. With programming skills and many years of experience, I am confident I can solve any problems from simple to complex challenges.
+
 
 ### :small_orange_diamond: Key Skills & Competencies
 
