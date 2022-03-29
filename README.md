@@ -36,11 +36,11 @@ Software engineer with many years of experience in coding technically. Experienc
 - Experience with CSS naming conventions such as BEM and OOCSS
 - Experience with front-end bundle tools, compression tools or javascript task runner such as: Webpack, Grunt, Gulp, ... 
 
-
+<!--
 ### :small_orange_diamond: Professional Experience
 
 ### :small_orange_diamond: Education
-
+-->
 
 <!--
 **anhkhoi/anhkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
