@@ -6,7 +6,7 @@
 - Live in: Ho Chi Minh City, Viet Nam
 
 ### :small_orange_diamond: Summary
-Software engineer with extensive experience in coding and developing apps for both mobile and web platforms. Proficient in Objective C, Swift, PHP, Javascript, NodeJs, ReactJs, HTML, CSS, MySQL, and other programming languages. Skilled in understanding technology trends and applying development best practices. Confident in solving complex challenges.
+Software engineer with extensive experience in coding and developing apps for both mobile and web platforms. Proficient in Javascript, NodeJs, ReactJs, HTML, CSS, Objective C, Swift, PHP, MySQL, and other programming languages. Skilled in understanding technology trends and applying development best practices. Confident in solving complex challenges.
 
 
 ### :small_orange_diamond: Key Skills & Competencies
